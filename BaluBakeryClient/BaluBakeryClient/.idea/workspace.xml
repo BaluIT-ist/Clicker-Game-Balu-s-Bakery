@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa86fbbc-10fb-4e81-bc2f-de87adb1bb43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/components/GameStateView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/components/GameView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BaluBakeryAPI/balubakeryspring/src/main/java/com/baluitist/balubakeryspring/BalubakeryspringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../BaluBakeryAPI/balubakeryspring/src/main/java/com/baluitist/balubakeryspring/BalubakeryspringApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BaluBakeryAPI/balubakeryspring/src/main/java/com/baluitist/balubakeryspring/entities/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../BaluBakeryAPI/balubakeryspring/src/main/java/com/baluitist/balubakeryspring/entities/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2dcltAGAxyjX0GQUV7ThY527uZ4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710315463828</updated>
       <workItem from="1710315464938" duration="2658000" />
+      <workItem from="1710318330694" duration="33000" />
     </task>
     <servers />
   </component>
