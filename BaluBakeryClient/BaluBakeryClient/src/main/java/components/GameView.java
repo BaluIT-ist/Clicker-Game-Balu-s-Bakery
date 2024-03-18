@@ -10,7 +10,7 @@ public class GameView extends JFrame {
         super();
         GameStateView panel = new GameStateView();
         add(panel);
-        this.setSize(new Dimension(400,450));
+        this.setSize(new Dimension(1000,600));
         this.setVisible(true);
     }
 }
