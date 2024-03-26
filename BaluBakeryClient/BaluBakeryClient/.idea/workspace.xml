@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa86fbbc-10fb-4e81-bc2f-de87adb1bb43" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../BaluBakeryAPI/balubakeryspring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BaluBakeryAPI/balubakeryspring/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BaluBakeryAPI/balubakeryspring/src/main/java/com/baluitist/balubakeryspring/BalubakeryspringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../BaluBakeryAPI/balubakeryspring/src/main/java/com/baluitist/balubakeryspring/BalubakeryspringApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BaluBakeryAPI/balubakeryspring/src/main/java/com/baluitist/balubakeryspring/entities/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../BaluBakeryAPI/balubakeryspring/src/main/java/com/baluitist/balubakeryspring/entities/GameState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Idei ClickerGame/Fără titlu.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Idei ClickerGame/Fără titlu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Idei ClickerGame/paintajutor.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Idei ClickerGame/paintajutor.png" afterDir="false" />
-    </list>
+    <list default="true" id="fa86fbbc-10fb-4e81-bc2f-de87adb1bb43" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +42,9 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,6 +78,8 @@
       <workItem from="1710315464938" duration="2658000" />
       <workItem from="1710318330694" duration="33000" />
       <workItem from="1710762845756" duration="3843000" />
+      <workItem from="1711356629841" duration="603000" />
+      <workItem from="1711445385639" duration="5232000" />
     </task>
     <servers />
   </component>
