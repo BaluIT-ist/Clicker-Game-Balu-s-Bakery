@@ -18,21 +18,27 @@ public class GameStateView extends JPanel {
         this.setPreferredSize(new Dimension(400, 450));
         this.setBackground(new Color(89, 120, 51)); // Calmer and colder cyan color
 
-        // Create a panel for the score
+        // Create and add the score panel
+        add(createScorePanel(), BorderLayout.NORTH);
+
+        // Create and add the button panel
+        add(createButtonPanel(), BorderLayout.CENTER);
+    }
+
+    private JPanel createScorePanel() {
         JPanel scorePanel = new JPanel(new FlowLayout(FlowLayout.LEFT));
         scorePanel.setBackground(new Color(89, 120, 51)); // Match the background color of the main panel
         scoreLabel = new JLabel("Score: " + score);
         scoreLabel.setForeground(Color.WHITE);
         scorePanel.add(scoreLabel);
+        return scorePanel;
+    }
 
-        // Add the score panel to the top left corner
-        add(scorePanel, BorderLayout.NORTH);
-
-        // Create a panel for the button
-        JPanel panelBakeButton = new JPanel(new BorderLayout());
-        panelBakeButton.setBackground(new Color(0, 0, 0, 0));
-        panelBakeButton.add(createBakingButton(), BorderLayout.CENTER); // Add button to center
-        add(panelBakeButton, BorderLayout.CENTER); // Add button panel to the center
+    private JPanel createButtonPanel() {
+        JPanel buttonPanel = new JPanel(new FlowLayout(FlowLayout.CENTER));
+        buttonPanel.setBackground(new Color(0, 0, 0, 0));
+        buttonPanel.add(createBakingButton());
+        return buttonPanel;
     }
 
     private JButton createBakingButton() {
